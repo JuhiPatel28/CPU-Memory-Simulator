@@ -1,5 +1,3 @@
-Juhi Patel
-
 Files:
 CPU.java - the CPU class and all of the accompanying functions
 Memory.java - the Memory class and all of the accompanying functions
